@@ -1,0 +1,7 @@
+controllers:
+    resource: ../src/Controller/
+    type: attribute
+    
+delete_message:
+    path: '/dashboard/delete/{id}'
+    controller: 'App\Controller\DashboardController::deleteMessage'
