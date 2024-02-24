@@ -53,5 +53,5 @@ To start the Symfony development server, run the following command:
     symfony serve:start
 
     ```
-    Register your default user
+- Register your default user
 
